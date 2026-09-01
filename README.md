@@ -2,7 +2,8 @@
 
 ##What?:
 - A simply python calculator
-###How?:
+
+##How?:
 - Enter a number then choose  the operation, then enter the second number
 ##E.g:
 Enter 1
