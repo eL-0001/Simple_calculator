@@ -1,13 +1,35 @@
-#READ ME
+# Simple Calculator
 
-##What?:
-- A simply python calculator
+A small Python calculator made while learning GitHub.
 
-##How?:
-- Enter a number then choose  the operation, then enter the second number
+## What it does
 
-##E.g:
+Adds, subtracts, multiplies, or divides two numbers.
 
-- Enter 1
-- Enter 2 (Subtraction operation)
-- Enter 40
+## How to run
+
+```bash
+python calculator.py
+```
+
+## How to use
+
+1. Enter the first number
+2. Enter the second number
+3. Choose an operation: `1` +, `2` -, `3` *, `4` /
+
+## Example
+
+```text
+Enter first number: 40
+Enter second number: 8
+Choose operation
+1. +
+2. -
+3. *
+4. /
+Enter choice (1-4): 2
+32.0
+```
+
+That example is `40 - 8 = 32`.
